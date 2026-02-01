@@ -25,11 +25,11 @@ const CONFIG = {
             text: "Tu me amas?",                                    // First interaction
             yesBtn: "Siiiii",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "Te AMO mas de lo que piensas 💙"           // Secret hover message
+            secretAnswer: "Me ofende la pregunta, obvio si caballin 🐎💙"           // Secret hover message
         },
         second: {
             text: "Cuánto me amas?",                          // For the love meter
-            startText: "mutisimoooooo",                                   // Text before the percentage
+            startText: "asiii",                                   // Text before the percentage
             nextBtn: "siguienteee 🩵"                                         // Text for the next button
         },
         third: {
@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Me haces la persona más feliz del universo",
-        message: "PONTE READY QUE MANANA TENEMOS UN DATE",
+        message: "PONTE READY QUE MAÑANA TENEMOS UN DATE",
         emojis: "💙 🩵🎁🤗💙 🩵"  // These will bounce around
     },
 
