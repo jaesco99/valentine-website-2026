@@ -57,11 +57,11 @@ const CONFIG = {
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
-      backgroundStart: "#E0F2FE",   // very light ice blue
-      backgroundEnd:   "#BAE6FD",   // soft blue
-      buttonBackground:"#2563EB",   // strong royal blue
-      buttonHover:     "#3B82F6",   // lighter hover
-      textColor:       "#0F172A"    // almost-black navy
+      backgroundStart: "#E0F2FE",
+      backgroundEnd:   "#BAE6FD",
+      buttonBackground:"#2563EB",
+      buttonHover:     "#3B82F6",
+      textColor:       "#0F172A"
     },
 
 
